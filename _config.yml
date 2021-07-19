@@ -5,7 +5,7 @@ description: >- # site description
 lang: en-US # default lang
 timezone: America/Los_Angeles # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/arshita237/arshita237.github.io # site repo [optional]
+repo: # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
@@ -22,7 +22,7 @@ author:
 
 # URL settings
 url: "https://klise.now.sh" #
-baseurl:
+baseurl: /
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
