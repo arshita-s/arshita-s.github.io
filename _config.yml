@@ -18,11 +18,11 @@ author:
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
   email: arshita.237@email.com # email address
-  avatar: arshita237.github.io/assets/img/avatar.jpg # Avatar
+  avatar: /assets/img/avatar.jpg # Avatar
 
 # URL settings
-url: "https://klise.now.sh" #
-baseurl: /
+url:  #
+baseurl: /arshita237.github.io
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
