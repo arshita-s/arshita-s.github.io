@@ -12,14 +12,13 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Arshita Sandhiparthi # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
+    My name is Arshita and I am a political science and computer science student at the University of the Pacific.
+  username: arshita237 # general username
   github: arshita237 # github username
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
   email: arshita.237@email.com # email address
-  avatar: assets/IMG_5750.png # Avatar
+  avatar: assets/img/avatar.png # Avatar
 
 # URL settings
 url: "https://klise.now.sh" #
