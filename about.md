@@ -1,18 +1,17 @@
 ---
-title: Colophon
+title: About Me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+I am a twenty-year-old university student living in San Joaquin County, California. I am passionate about the intersection of public policy and technology in the digital age.
 
-If you have a question about him or else, just send a letter to him.
+During the academic year, in addition to participating in my classes, I compete with my university's speech and debate team. We travel the country to debate other teams from other schools about domestic policy, foreign policy, philosophy, ethics, and more. This year, 2021, will be my eighth as a competitive debater. 
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+On my free time, I like reading comics and graphic novels. I also take time out of my week to be a volunteer-activist for the ACLU and Amnesty International.
 
-**may u needs ✨**
+**other stuff ✨**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
