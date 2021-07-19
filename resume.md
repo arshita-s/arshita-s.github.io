@@ -3,6 +3,29 @@ layout: page
 title: Resumé
 ---
 
+<style>
+* { margin: 0; padding: 0; }
+#page-wrap { width: 800px; margin: 40px auto 60px; display: grid; grid-template-columns: 150px; 650px; }
+blockquote { grid-column: 1/3; }
+blockquote p { border-left: none; padding: 0; color: #666; }
+h2 { text-align: center; grid-column: 1; margin: 15px 10px 0 0; }
+
+h3 { border-left: 1px solid #999; padding: 0 0 0 26px; font-size: 18px; font-weight: 300; grid-column: 2;}
+h3 strong { padding: 0 5px 0 0; }
+h3 span { float: right; color: #999; }
+
+p  { border-left: 1px solid #999; padding: 0 0 0 26px; grid-column: 2; }
+ul { border-left: 1px solid #999; padding: 0 0 0 26px; grid-column: 2; }
+ul > ul { border-left: 0px solid #999; padding: 0 0 0 26px; grid-column: 2; }
+a { color: #999; text-decoration: none; border-bottom: 1px dotted #999; }
+a:hover { border-bottom-style: solid; color: black; }
+
+h2 + h3 { margin-top: 15px; }
+h2 + p  { margin-top: 15px; }
+ul + h3 { padding-top: 8px; }
+p + h3  { padding-top: 8px; }
+</style>
+
 ## Education
 ### University of the Pacific           
 Bachelor's Degree, Political Science & Computer Science
