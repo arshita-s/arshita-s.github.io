@@ -3,7 +3,6 @@ layout: page
 title: Resumé
 ---
 
-# Arshita Sandhiparthi
 ## Education
 ### University of the Pacific           
 Bachelor's Degree, Political Science & Computer Science
